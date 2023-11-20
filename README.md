@@ -1,3 +1,6 @@
+## Autores
+Samuel Vieira e Amanda Oliveira
+
 # WebScraping para Avaliações do e-SUS
 
 Este projeto consiste em um extractor desenvolvido para coletar avaliações de usuários dos aplicativos do e-SUS, criados pelo Laboratório Bridge da Universidade Federal de Santa Catarina (UFSC).
